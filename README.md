@@ -19,7 +19,6 @@ Required `.env` keys:
 - `MCP_HOST`
 - `TRANSPORT`
 - `GARMIN_DBs_PATH` - Please look at the example
-- `GARMIN_DB_PATH`
 - `FITFILES_PATH`
 
 ## Run
@@ -56,6 +55,9 @@ If you want to use this within Claude Code, Codex CLI, Cursor, or any local AI c
 - `get_activity_data_full(activity_id)`
 - `load_activity_json(activity_id)`
 
-Bottom:
 is this the best? No.
-Was AI used in creating this? Yes, mainly for some SQL filter cases, the install script, and parts of this README.
+Was AI used in creating this? Yes, mainly for some SQL filter cases, the install script, parts of this README, and **pushing to Git**.
+
+
+## Example Of GenerativeUI
+
