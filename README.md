@@ -1,7 +1,7 @@
 This is an MCP server built on GarminDB.
 This is in development and will improve over time because it is for my own use.
 
-This MCP server allows AI models to pull Garmin data saved locally via GarminDB, and can create Generative UI views via FastMCP + PrefabUI.
+This MCP server allows AI models to pull Garmin data saved locally via GarminDB(https://github.com/tcgoetz/GarminDB), and can create Generative UI views via FastMCP + PrefabUI.
 
 ## Quick setup
 
@@ -12,7 +12,7 @@ This MCP server allows AI models to pull Garmin data saved locally via GarminDB,
    ```
 3. Copy `.env.example` to `.env` and set valid local paths.
 3.5. Make sure Deno is installed and in your `PATH` (the install script handles this).
-4. It is absolutely vital you have completed setup of GarminDB, and have synced your db
+4. It is absolutely vital you have completed setup of GarminDB, and have synced your db. https://github.com/tcgoetz/GarminDB
 
 Required `.env` keys:
 - `MCP_PORT`
@@ -60,5 +60,7 @@ Was AI used in creating this? Yes, mainly for some SQL filter cases, the install
 
 
 ## Example Of GenerativeUI
+<img width="658" height="671" alt="image" src="https://github.com/user-attachments/assets/cc249512-f392-487d-95ba-b40d2c5edbdc" />
+
 <img width="675" height="667" alt="image" src="https://github.com/user-attachments/assets/37af1ab9-095f-4742-8811-55674fdbe879" />
 
