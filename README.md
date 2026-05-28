@@ -2,6 +2,7 @@ This is an MCP server built on GarminDB.
 This is in development and will improve over time because it is for my own use.
 
 This MCP server allows AI models to pull Garmin data saved locally via GarminDB(https://github.com/tcgoetz/GarminDB), and can create Generative UI views via FastMCP + PrefabUI.
+You should read about GenerativeUI here: https://gofastmcp.com/apps/generative
 
 ## Quick setup
 
