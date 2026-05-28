@@ -60,4 +60,5 @@ Was AI used in creating this? Yes, mainly for some SQL filter cases, the install
 
 
 ## Example Of GenerativeUI
+<img width="675" height="667" alt="image" src="https://github.com/user-attachments/assets/37af1ab9-095f-4742-8811-55674fdbe879" />
 
